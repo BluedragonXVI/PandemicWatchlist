@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pandemic Watch List</string>
+    <string name="panwatchlist_logo">Pandemic Watch List Logo</string>
+    <string name="get_rating">Get Rating</string>
+    <string name="trailer">Trailer!</string>
+    <string-array name="watchlist_options">
+        <item>Movies</item>
+        <item>TV Shows</item>
+    </string-array>
+</resources>
